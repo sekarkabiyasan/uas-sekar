@@ -1,0 +1,31 @@
+{
+    "payment": [
+        {
+          "name": "Dana",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Logo_dana_blue.svg/2560px-Logo_dana_blue.svg.png",
+          "id": "dana"
+        },
+        {
+          "name": "Ovo",
+          "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTqt9pztemnnJksE4I00gl688nVCUhY4QBgAtosp_4bNLgC7TbSEsV-GrSVyxsEbivvs&usqp=CAU",
+          "id": "ovo"
+        },
+        {
+          "name": "Bca",
+          "logo_url": "https://w7.pngwing.com/pngs/561/1/png-transparent-bank-central-asia-logo-bca-finance-business-bank-blue-cdr-text-thumbnail.png",
+          "id": "bca"
+        },
+        {
+          "name": "Google Pay",
+          "logo_url": "https://static-00.iconduck.com/assets.00/google-pay-icon-2048x1405-mkch8mpk.png",
+          "id": "googlepay"
+        },
+        {
+          "name": "Gopay",
+          "logo_url": "https://toppng.com/uploads/preview/gopay-logo-png-image-116028322418uofv1gjg3.png",
+          "id": "gopay"
+        }
+       
+      ]
+      
+}

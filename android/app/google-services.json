@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229506922625",
+    "project_id": "phonemart-7e25a",
+    "storage_bucket": "phonemart-7e25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229506922625:android:8b7d46b411e58e742df580",
+        "android_client_info": {
+          "package_name": "com.example.phone_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInawNx2CFWEN1YdKFeQLZ9UnV6aJoMzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
